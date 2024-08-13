@@ -19,7 +19,8 @@ This is a basic transaction management application built using Node.js, Express.
 git clone https://github.com/yourusername/transaction-app.git
 cd transaction-app
 
-**2. Install Dependencies**
+### 2. Install Dependencies
+```bash
 npm install
 
 **3. Create a .env File**
